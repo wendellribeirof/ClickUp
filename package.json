@@ -1,0 +1,14 @@
+{
+  "name": "clickup",
+  "version": "1.0.0",
+  "description": "Automação Cypress/Cucumber/PageObject/Clickup",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Wendell Ribeiro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  }
+}
