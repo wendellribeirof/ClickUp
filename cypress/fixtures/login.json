@@ -2,7 +2,7 @@
 {
   "user_valido": {
     "login": "treinamentocypress@gmail.com",
-    "password": "Cypress@2024"
+    "password": "Cypress@123"
   },
   "user_invalido": {
     "login": "teste.teste@gmail.com",
