@@ -7,7 +7,7 @@ beforeEach(() => {
 describe("tela de login", () => {
 
     context('Dado que possuo usuário válido', () => {
-        it('Então realizo login com sucesso', () => {
+        it.only('Então realizo login com sucesso', () => {
             loginPage.fillForm();
             loginPage.submit();
         });
