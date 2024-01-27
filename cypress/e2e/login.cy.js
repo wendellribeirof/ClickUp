@@ -6,10 +6,9 @@ describe("Acesso ao login", () => {
         loginPage.visit();
     });
 
-    context('Dado que acesso a tela de login', () => {
-        it('Então devo realizar login válido', () => {
-            loginPage.form();
-            loginPage.enter();
+    context('', () => {
+        it('', () => {
+            
         });
     });
 });
