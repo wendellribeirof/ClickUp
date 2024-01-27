@@ -3,6 +3,12 @@
   "user_valido": {
     "login": "treinamentocypress@gmail.com",
     "password": "Cypress@2024"
-}
+},
+
+  "user_invalido": {
+    "login": "testeerrado@teste.com",
+    "password":"teste123"
+
+  }
 
 }
